@@ -1,1 +1,3 @@
 for loop
+done with for loops
+wait what about while loops
